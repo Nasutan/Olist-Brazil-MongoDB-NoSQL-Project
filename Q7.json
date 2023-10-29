@@ -1,0 +1,57 @@
+[{
+  "_id": "approved",
+  "score_1": 1,
+  "score_2": 0,
+  "score_3": 0,
+  "score_4": 1,
+  "score_5": 0
+},{
+  "_id": "canceled",
+  "score_1": 422,
+  "score_2": 44,
+  "score_3": 48,
+  "score_4": 26,
+  "score_5": 69
+},{
+  "_id": "created",
+  "score_1": 2,
+  "score_2": 0,
+  "score_3": 0,
+  "score_4": 0,
+  "score_5": 1
+},{
+  "_id": "delivered",
+  "score_1": 9406,
+  "score_2": 2941,
+  "score_3": 7961,
+  "score_4": 18987,
+  "score_5": 57066
+},{
+  "_id": "invoiced",
+  "score_1": 230,
+  "score_2": 26,
+  "score_3": 16,
+  "score_4": 15,
+  "score_5": 26
+},{
+  "_id": "processing",
+  "score_1": 256,
+  "score_2": 18,
+  "score_3": 9,
+  "score_4": 6,
+  "score_5": 7
+},{
+  "_id": "shipped",
+  "score_1": 644,
+  "score_2": 79,
+  "score_3": 110,
+  "score_4": 87,
+  "score_5": 123
+},{
+  "_id": "unavailable",
+  "score_1": 463,
+  "score_2": 43,
+  "score_3": 35,
+  "score_4": 20,
+  "score_5": 36
+}]
